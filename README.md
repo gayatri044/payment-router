@@ -19,7 +19,7 @@
 
 ## Architecture
 
-![Payment Router Architecture](payment-router-architecture.png)
+![Payment Router Architecture](docs/payment-router-architecture.png)
 
 > **Design patterns used**
 > - **Strategy Pattern** — BankRoutingStrategy, AmountRoutingStrategy implement RoutingStrategy interface
